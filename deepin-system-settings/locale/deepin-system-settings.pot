@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-07 11:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../dss/foot_box.py:57
+msgid "Reset"
+msgstr ""
+
+#: ../dss/action_bar.py:101 ../dss/main.py:337 ../dss/main.py:451
+msgid "System Settings"
+msgstr ""
+
+#: ../dss/navigate_page.py:134
+msgid "10"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:62
+msgid "Cancel"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:77
+#, python-format
+msgid "Sent %d"
+msgstr ""
+
+#: ../dss/bluetooth_dialog.py:112
+msgid "Ok"
+msgstr ""
